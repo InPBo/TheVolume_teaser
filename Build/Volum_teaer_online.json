@@ -1,0 +1,16 @@
+{
+"companyName": "MDI_FA_EMI",
+"productName": "Compositing Immersive Videos",
+"productVersion": "0.1",
+"dataUrl": "Volum_teaer_online.data.unityweb",
+"wasmCodeUrl": "Volum_teaer_online.wasm.code.unityweb",
+"wasmFrameworkUrl": "Volum_teaer_online.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.5f1"
+}
